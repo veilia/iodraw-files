@@ -26,10 +26,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-6" value="购物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-7" value="卖货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PAn9IyR2DBj7KhdQm20Q-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
