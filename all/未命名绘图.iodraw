@@ -81,14 +81,23 @@
         <mxCell id="-zhrQdVcYrSWJhhnTEof-3" value="购物流程" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="80" y="270" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-zhrQdVcYrSWJhhnTEof-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-zhrQdVcYrSWJhhnTEof-4" target="-zhrQdVcYrSWJhhnTEof-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-zhrQdVcYrSWJhhnTEof-4" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-zhrQdVcYrSWJhhnTEof-9" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-zhrQdVcYrSWJhhnTEof-6" target="-zhrQdVcYrSWJhhnTEof-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-zhrQdVcYrSWJhhnTEof-6" value="平台" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="470" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-zhrQdVcYrSWJhhnTEof-7" value="提供商品界面" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="450" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-zhrQdVcYrSWJhhnTEof-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
