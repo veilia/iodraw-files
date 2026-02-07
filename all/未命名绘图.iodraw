@@ -215,10 +215,10 @@
           <mxGeometry x="2100" y="800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="etwqc3ZYq1GetYa3m4Bh-17" value="卖家" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2550" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="2540" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="etwqc3ZYq1GetYa3m4Bh-19" value="平台" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="2240" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="etwqc3ZYq1GetYa3m4Bh-23" value="商品" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="2260" y="860" width="120" height="60" as="geometry" />
@@ -227,7 +227,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="etwqc3ZYq1GetYa3m4Bh-25" value="交流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2401" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="2401" y="610" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="etwqc3ZYq1GetYa3m4Bh-26" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.054;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="etwqc3ZYq1GetYa3m4Bh-19" target="etwqc3ZYq1GetYa3m4Bh-25">
           <mxGeometry relative="1" as="geometry" />
