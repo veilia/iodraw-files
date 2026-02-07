@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-1" value="商家" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="100" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="120" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-2" value="平台" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="270" y="170" width="80" height="80" as="geometry" />
@@ -45,7 +45,7 @@
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="PAn9IyR2DBj7KhdQm20Q-7" target="PAn9IyR2DBj7KhdQm20Q-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PAn9IyR2DBj7KhdQm20Q-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="PAn9IyR2DBj7KhdQm20Q-10">
+        <mxCell id="PAn9IyR2DBj7KhdQm20Q-15" value="收钱" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="PAn9IyR2DBj7KhdQm20Q-10">
           <mxGeometry x="-0.0508" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
