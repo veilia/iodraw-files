@@ -85,10 +85,10 @@
           <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-zhrQdVcYrSWJhhnTEof-6" value="平台" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="470" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="470" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-zhrQdVcYrSWJhhnTEof-7" value="提供商品界面" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="390" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
