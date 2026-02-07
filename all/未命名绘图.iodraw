@@ -134,6 +134,12 @@
         <mxCell id="-zhrQdVcYrSWJhhnTEof-34" value="订单页" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1010" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-zhrQdVcYrSWJhhnTEof-37" value="结算" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-zhrQdVcYrSWJhhnTEof-38" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-zhrQdVcYrSWJhhnTEof-32" target="-zhrQdVcYrSWJhhnTEof-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
