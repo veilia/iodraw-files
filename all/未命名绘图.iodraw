@@ -158,11 +158,17 @@
         <mxCell id="-zhrQdVcYrSWJhhnTEof-42" value="通知卖家" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1360" y="650" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-zhrQdVcYrSWJhhnTEof-47" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-zhrQdVcYrSWJhhnTEof-44" target="-zhrQdVcYrSWJhhnTEof-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-zhrQdVcYrSWJhhnTEof-44" value="卖家" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1510" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-zhrQdVcYrSWJhhnTEof-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="-zhrQdVcYrSWJhhnTEof-46" value="发货" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1700" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-zhrQdVcYrSWJhhnTEof-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
