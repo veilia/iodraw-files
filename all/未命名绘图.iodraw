@@ -25,6 +25,9 @@
             <mxPoint x="440" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PAn9IyR2DBj7KhdQm20Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAn9IyR2DBj7KhdQm20Q-6" target="PAn9IyR2DBj7KhdQm20Q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-6" value="购物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -32,7 +35,7 @@
           <mxGeometry x="-50" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-8" value="钱包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
