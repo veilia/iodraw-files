@@ -25,7 +25,7 @@
             <mxPoint x="440" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PAn9IyR2DBj7KhdQm20Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAn9IyR2DBj7KhdQm20Q-6" target="PAn9IyR2DBj7KhdQm20Q-8">
+        <mxCell id="PAn9IyR2DBj7KhdQm20Q-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PAn9IyR2DBj7KhdQm20Q-6" target="PAn9IyR2DBj7KhdQm20Q-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-6" value="购物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
