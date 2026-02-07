@@ -45,6 +45,11 @@
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="PAn9IyR2DBj7KhdQm20Q-7" target="PAn9IyR2DBj7KhdQm20Q-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PAn9IyR2DBj7KhdQm20Q-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="PAn9IyR2DBj7KhdQm20Q-10">
+          <mxGeometry x="-0.0508" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-7" value="卖货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="270" width="120" height="60" as="geometry" />
         </mxCell>
