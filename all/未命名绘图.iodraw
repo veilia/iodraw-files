@@ -173,8 +173,8 @@
         <mxCell id="etwqc3ZYq1GetYa3m4Bh-3" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1870" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="etwqc3ZYq1GetYa3m4Bh-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="860" y="720" width="80" height="80" as="geometry" />
+        <mxCell id="etwqc3ZYq1GetYa3m4Bh-7" value="解锁评价" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="850" y="730" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
