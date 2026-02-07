@@ -173,6 +173,9 @@
         <mxCell id="etwqc3ZYq1GetYa3m4Bh-1" value="平台" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1230" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="etwqc3ZYq1GetYa3m4Bh-13" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="etwqc3ZYq1GetYa3m4Bh-3" target="etwqc3ZYq1GetYa3m4Bh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="etwqc3ZYq1GetYa3m4Bh-3" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1870" y="650" width="120" height="60" as="geometry" />
         </mxCell>
