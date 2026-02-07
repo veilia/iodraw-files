@@ -128,6 +128,9 @@
         <mxCell id="-zhrQdVcYrSWJhhnTEof-41" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-zhrQdVcYrSWJhhnTEof-34" target="-zhrQdVcYrSWJhhnTEof-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="etwqc3ZYq1GetYa3m4Bh-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-zhrQdVcYrSWJhhnTEof-34" target="etwqc3ZYq1GetYa3m4Bh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-zhrQdVcYrSWJhhnTEof-34" value="订单页" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1010" y="630" width="120" height="60" as="geometry" />
         </mxCell>
@@ -174,7 +177,7 @@
           <mxGeometry x="1870" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="etwqc3ZYq1GetYa3m4Bh-5" value="订单记录" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="950" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
