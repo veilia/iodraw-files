@@ -146,11 +146,14 @@
         <mxCell id="-zhrQdVcYrSWJhhnTEof-39" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-zhrQdVcYrSWJhhnTEof-37" target="-zhrQdVcYrSWJhhnTEof-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-zhrQdVcYrSWJhhnTEof-43" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-zhrQdVcYrSWJhhnTEof-40" target="-zhrQdVcYrSWJhhnTEof-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-zhrQdVcYrSWJhhnTEof-40" value="第三方支付" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1201" y="730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-zhrQdVcYrSWJhhnTEof-42" value="通知卖家" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="640" width="80" height="80" as="geometry" />
+          <mxGeometry x="1360" y="650" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
