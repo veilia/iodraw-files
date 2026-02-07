@@ -13,7 +13,13 @@
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-2" value="平台" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="270" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PAn9IyR2DBj7KhdQm20Q-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="PAn9IyR2DBj7KhdQm20Q-2">
+        <mxCell id="PAn9IyR2DBj7KhdQm20Q-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LpJU9uJlpgoIbcjo_NtA-1" target="PAn9IyR2DBj7KhdQm20Q-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAn9IyR2DBj7KhdQm20Q-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PAn9IyR2DBj7KhdQm20Q-1" target="PAn9IyR2DBj7KhdQm20Q-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="400" as="sourcePoint" />
             <mxPoint x="440" y="350" as="targetPoint" />
