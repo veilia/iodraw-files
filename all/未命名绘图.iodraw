@@ -295,11 +295,17 @@
         <mxCell id="9_9LHEo-3xMKl49AoEIN-21" value="卖货收益" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="270" y="990" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9_9LHEo-3xMKl49AoEIN-26" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="9_9LHEo-3xMKl49AoEIN-23" target="9_9LHEo-3xMKl49AoEIN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9_9LHEo-3xMKl49AoEIN-23" value="查询" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="414" y="140" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9_9LHEo-3xMKl49AoEIN-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="570" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="9_9LHEo-3xMKl49AoEIN-24" value="平台消息" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9_9LHEo-3xMKl49AoEIN-25" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.046;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-zhrQdVcYrSWJhhnTEof-4" target="9_9LHEo-3xMKl49AoEIN-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
