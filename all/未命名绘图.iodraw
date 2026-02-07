@@ -244,9 +244,6 @@
         <mxCell id="9_9LHEo-3xMKl49AoEIN-2" value="商家" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="240" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9_9LHEo-3xMKl49AoEIN-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="400" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
