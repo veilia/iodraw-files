@@ -215,7 +215,7 @@
           <mxGeometry x="2100" y="800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="etwqc3ZYq1GetYa3m4Bh-17" value="卖家" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2540" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="2300" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="etwqc3ZYq1GetYa3m4Bh-19" value="平台" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="2240" y="520" width="120" height="60" as="geometry" />
