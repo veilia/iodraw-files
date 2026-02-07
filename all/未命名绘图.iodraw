@@ -13,6 +13,9 @@
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-13" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="PAn9IyR2DBj7KhdQm20Q-1" target="PAn9IyR2DBj7KhdQm20Q-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PAn9IyR2DBj7KhdQm20Q-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="PAn9IyR2DBj7KhdQm20Q-1" target="LpJU9uJlpgoIbcjo_NtA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-1" value="商家" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="80" height="80" as="geometry" />
         </mxCell>
@@ -58,9 +61,6 @@
         </mxCell>
         <mxCell id="PAn9IyR2DBj7KhdQm20Q-8" value="钱包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PAn9IyR2DBj7KhdQm20Q-17" value="第三方" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="530" y="60" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
