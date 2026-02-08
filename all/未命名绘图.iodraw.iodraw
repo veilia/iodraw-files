@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="p-FImyM8zJd1LZRJSrYi-1" target="p-FImyM8zJd1LZRJSrYi-3">
+        <mxCell id="p-FImyM8zJd1LZRJSrYi-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;entryX=0.019;entryY=0.213;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p-FImyM8zJd1LZRJSrYi-1" target="p-FImyM8zJd1LZRJSrYi-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p-FImyM8zJd1LZRJSrYi-6" value="对用户进行封禁处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="p-FImyM8zJd1LZRJSrYi-5">
@@ -22,11 +22,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="p-FImyM8zJd1LZRJSrYi-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p-FImyM8zJd1LZRJSrYi-1" value="管理员" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="80" height="80" as="geometry" />
         </mxCell>
@@ -34,9 +29,9 @@
           <mxGeometry x="610" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p-FImyM8zJd1LZRJSrYi-3" value="系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="175" width="120" height="210" as="geometry" />
+          <mxGeometry x="350" y="220" width="120" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.025;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p-FImyM8zJd1LZRJSrYi-1" target="p-FImyM8zJd1LZRJSrYi-3">
+        <mxCell id="p-FImyM8zJd1LZRJSrYi-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.042;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p-FImyM8zJd1LZRJSrYi-1" target="p-FImyM8zJd1LZRJSrYi-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p-FImyM8zJd1LZRJSrYi-11" value="审核用户发布内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="p-FImyM8zJd1LZRJSrYi-10">
