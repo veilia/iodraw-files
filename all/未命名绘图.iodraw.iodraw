@@ -30,7 +30,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-18" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="80" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-19" value="上传视频" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="300" y="200" width="80" height="80" as="geometry" />
@@ -69,7 +69,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-30" value="投币" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="930" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="910" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-31" value="作者" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="610" y="30" width="120" height="60" as="geometry" />
