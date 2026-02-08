@@ -119,8 +119,8 @@
         <mxCell id="BSAXSilA_skRTbiQRmk6-49" value="钱包" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-130" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BSAXSilA_skRTbiQRmk6-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="350" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="BSAXSilA_skRTbiQRmk6-52" value="平台" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="330" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
