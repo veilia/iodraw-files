@@ -12,7 +12,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0;entryY=0.786;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p-FImyM8zJd1LZRJSrYi-1" target="p-FImyM8zJd1LZRJSrYi-3">
+        <mxCell id="p-FImyM8zJd1LZRJSrYi-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.025;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p-FImyM8zJd1LZRJSrYi-1" target="p-FImyM8zJd1LZRJSrYi-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="390" as="targetPoint" />
           </mxGeometry>
@@ -21,6 +21,9 @@
           <mxGeometry x="-0.0046" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p-FImyM8zJd1LZRJSrYi-13" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="p-FImyM8zJd1LZRJSrYi-1" target="p-FImyM8zJd1LZRJSrYi-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p-FImyM8zJd1LZRJSrYi-1" value="管理员" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="80" height="80" as="geometry" />
