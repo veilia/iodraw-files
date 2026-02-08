@@ -35,6 +35,9 @@
         <mxCell id="BSAXSilA_skRTbiQRmk6-19" value="上传视频" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="300" y="200" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BSAXSilA_skRTbiQRmk6-28" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="BSAXSilA_skRTbiQRmk6-20" target="BSAXSilA_skRTbiQRmk6-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-20" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="470" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -56,7 +59,13 @@
         <mxCell id="BSAXSilA_skRTbiQRmk6-25" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.346;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="BSAXSilA_skRTbiQRmk6-20" target="BSAXSilA_skRTbiQRmk6-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BSAXSilA_skRTbiQRmk6-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="BSAXSilA_skRTbiQRmk6-27" value="收藏" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="730" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BSAXSilA_skRTbiQRmk6-29" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.986;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="BSAXSilA_skRTbiQRmk6-27" target="BSAXSilA_skRTbiQRmk6-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSAXSilA_skRTbiQRmk6-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="520" y="150" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
