@@ -137,8 +137,11 @@
         <mxCell id="BSAXSilA_skRTbiQRmk6-60" value="评论" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="640" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BSAXSilA_skRTbiQRmk6-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="BSAXSilA_skRTbiQRmk6-61" value="发送弹幕" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="760" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BSAXSilA_skRTbiQRmk6-62" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
