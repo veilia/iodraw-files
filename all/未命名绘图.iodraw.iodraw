@@ -108,16 +108,16 @@
           <mxGeometry x="90" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-46" value="充电" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="210" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-48" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.658;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="BSAXSilA_skRTbiQRmk6-46" target="BSAXSilA_skRTbiQRmk6-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-52" value="平台" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-54" value="购买电池" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="390" y="490" width="80" height="80" as="geometry" />
+          <mxGeometry x="400" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-55" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.725;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="BSAXSilA_skRTbiQRmk6-20" target="BSAXSilA_skRTbiQRmk6-54">
           <mxGeometry relative="1" as="geometry" />
@@ -129,10 +129,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-57" value="兑换电池/硬币" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="100" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="130" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-58" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.275;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="BSAXSilA_skRTbiQRmk6-18" target="BSAXSilA_skRTbiQRmk6-57">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSAXSilA_skRTbiQRmk6-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="650" y="430" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
