@@ -120,7 +120,7 @@
           <mxGeometry x="-130" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-52" value="平台" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-54" value="购买电池" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="390" y="490" width="80" height="80" as="geometry" />
