@@ -4,48 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;entryX=0.019;entryY=0.238;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p-FImyM8zJd1LZRJSrYi-1" target="p-FImyM8zJd1LZRJSrYi-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-6" value="对用户进行封禁处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="p-FImyM8zJd1LZRJSrYi-5">
-          <mxGeometry x="-0.0792" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.988;exitY=0.733;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=-0.008;entryY=0.705;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="p-FImyM8zJd1LZRJSrYi-1" target="p-FImyM8zJd1LZRJSrYi-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-9" value="给用户发送警告消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="p-FImyM8zJd1LZRJSrYi-7">
-          <mxGeometry x="-0.0046" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-13" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.036;entryY=0.905;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=0.746;exitY=0.958;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="p-FImyM8zJd1LZRJSrYi-1" target="p-FImyM8zJd1LZRJSrYi-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-14" value="帮助用户解决问题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="p-FImyM8zJd1LZRJSrYi-13">
-          <mxGeometry x="-0.0422" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-1" value="管理员" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-2" value="用户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="610" y="255" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-3" value="系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="190" width="120" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.042;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p-FImyM8zJd1LZRJSrYi-1" target="p-FImyM8zJd1LZRJSrYi-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p-FImyM8zJd1LZRJSrYi-11" value="审核用户发布内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="p-FImyM8zJd1LZRJSrYi-10">
-          <mxGeometry x="-0.2082" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="BSAXSilA_skRTbiQRmk6-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
