@@ -22,7 +22,7 @@
         <mxCell id="BSAXSilA_skRTbiQRmk6-5" value="用户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="720" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BSAXSilA_skRTbiQRmk6-7" value="视频列表" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="BSAXSilA_skRTbiQRmk6-7" value="视频" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="520" y="140" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
