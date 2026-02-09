@@ -739,8 +739,8 @@
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-55" value="&lt;u&gt;@用户id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="950" y="-630" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UK1EIKddpFV3ZAQFHUpp-59" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="-400" width="120" height="80" as="geometry" />
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-59" value="置顶标记" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-300" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
