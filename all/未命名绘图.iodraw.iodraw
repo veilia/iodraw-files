@@ -90,7 +90,7 @@
           <mxGeometry x="940" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-31" value="作者" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-35" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="BSAXSilA_skRTbiQRmk6-33" target="BSAXSilA_skRTbiQRmk6-31">
           <mxGeometry relative="1" as="geometry" />
@@ -160,6 +160,9 @@
         </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-68" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.897;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="BSAXSilA_skRTbiQRmk6-62" target="BSAXSilA_skRTbiQRmk6-22">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSAXSilA_skRTbiQRmk6-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-130" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
