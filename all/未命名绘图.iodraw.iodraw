@@ -730,7 +730,7 @@
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-54" value="父评论id" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="960" y="-720" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UK1EIKddpFV3ZAQFHUpp-55" value="@用户" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-55" value="@用户id" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1110" y="-710" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
