@@ -838,6 +838,12 @@
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-86" value="状态" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1534" y="1150" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-97" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UK1EIKddpFV3ZAQFHUpp-87" target="UK1EIKddpFV3ZAQFHUpp-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-98" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UK1EIKddpFV3ZAQFHUpp-87" target="UK1EIKddpFV3ZAQFHUpp-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-87" value="视频属性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="2030" y="990" width="120" height="60" as="geometry" />
         </mxCell>
@@ -848,7 +854,7 @@
           <mxGeometry x="2060" y="840" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-95" value="大小" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="1080" width="120" height="80" as="geometry" />
+          <mxGeometry x="2170" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-96" value="分辨率" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="2040" y="1150" width="120" height="80" as="geometry" />
