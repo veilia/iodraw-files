@@ -808,8 +808,11 @@
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-81" value="封面url" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1770" y="700" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UK1EIKddpFV3ZAQFHUpp-82" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-82" value="简介" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1870" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-83" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="740" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
