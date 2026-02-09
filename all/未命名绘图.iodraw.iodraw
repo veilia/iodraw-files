@@ -376,6 +376,9 @@
         <mxCell id="fxjrnkAj0hOYZ-mSBcKD-1" value="电池" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-470" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fxjrnkAj0hOYZ-mSBcKD-3" value="硬币" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
