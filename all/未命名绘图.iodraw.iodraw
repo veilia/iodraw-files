@@ -394,6 +394,9 @@
         <mxCell id="0kh6Af_mV9lWJEhiQZAs-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fxjrnkAj0hOYZ-mSBcKD-11" target="0kh6Af_mV9lWJEhiQZAs-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0kh6Af_mV9lWJEhiQZAs-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fxjrnkAj0hOYZ-mSBcKD-11" target="0kh6Af_mV9lWJEhiQZAs-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fxjrnkAj0hOYZ-mSBcKD-11" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="860" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -494,7 +497,7 @@
           <mxGeometry x="1330" y="535" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fxjrnkAj0hOYZ-mSBcKD-56" value="idcard" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="1948" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fxjrnkAj0hOYZ-mSBcKD-58" value="头像" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1360" y="320" width="120" height="80" as="geometry" />
@@ -533,7 +536,10 @@
           <mxGeometry x="1520" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0kh6Af_mV9lWJEhiQZAs-19" value="安全资料" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1770" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0kh6Af_mV9lWJEhiQZAs-21" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="400" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
