@@ -673,10 +673,10 @@
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-27" value="ip属地" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1190" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UK1EIKddpFV3ZAQFHUpp-29" value="发送用户" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-29" value="&lt;u&gt;发送用户&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="660" y="-610" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UK1EIKddpFV3ZAQFHUpp-30" value="所属视频" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-30" value="&lt;u&gt;所属视频&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="990" y="-540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-31" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UK1EIKddpFV3ZAQFHUpp-22" target="UK1EIKddpFV3ZAQFHUpp-29">
@@ -736,7 +736,7 @@
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-54" value="&lt;u&gt;父评论id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="800" y="-650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UK1EIKddpFV3ZAQFHUpp-55" value="@用户id" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-55" value="&lt;u&gt;@用户id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="950" y="-630" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
