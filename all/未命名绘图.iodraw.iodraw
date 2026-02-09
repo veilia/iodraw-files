@@ -568,8 +568,8 @@
         <mxCell id="0kh6Af_mV9lWJEhiQZAs-31" value="id" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="920" y="790" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0kh6Af_mV9lWJEhiQZAs-32" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="980" y="710" width="120" height="80" as="geometry" />
+        <mxCell id="0kh6Af_mV9lWJEhiQZAs-32" value="关注用户" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="810" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
