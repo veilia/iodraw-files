@@ -745,8 +745,14 @@
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-59" value="置顶标记" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="730" y="-300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UK1EIKddpFV3ZAQFHUpp-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-61" value="视频" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1550" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-62" value="id" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-63" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="820" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
