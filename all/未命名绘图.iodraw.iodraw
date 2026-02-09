@@ -758,10 +758,13 @@
           <mxGeometry x="1740" y="830" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-65" value="发布时间" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="960" width="120" height="80" as="geometry" />
+          <mxGeometry x="1720" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-66" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="1060" width="120" height="80" as="geometry" />
+          <mxGeometry x="1560" y="1050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-67" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1020" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
