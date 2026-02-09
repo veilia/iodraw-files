@@ -616,8 +616,8 @@
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-13" value="内容" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1490" y="-650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UK1EIKddpFV3ZAQFHUpp-16" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-520" width="120" height="80" as="geometry" />
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-16" value="发送用户" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="-640" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
