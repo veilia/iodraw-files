@@ -844,8 +844,11 @@
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-88" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.607;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UK1EIKddpFV3ZAQFHUpp-61" target="UK1EIKddpFV3ZAQFHUpp-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UK1EIKddpFV3ZAQFHUpp-94" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-94" value="id" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="2030" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-95" value="大小" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1080" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
