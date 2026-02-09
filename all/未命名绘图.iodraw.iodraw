@@ -89,6 +89,9 @@
         <mxCell id="BSAXSilA_skRTbiQRmk6-30" value="投币" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="940" y="240" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BSAXSilA_skRTbiQRmk6-74" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="BSAXSilA_skRTbiQRmk6-31" target="BSAXSilA_skRTbiQRmk6-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BSAXSilA_skRTbiQRmk6-31" value="作者" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="800" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -170,7 +173,7 @@
         <mxCell id="BSAXSilA_skRTbiQRmk6-71" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.971;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="BSAXSilA_skRTbiQRmk6-31" target="BSAXSilA_skRTbiQRmk6-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BSAXSilA_skRTbiQRmk6-73" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="BSAXSilA_skRTbiQRmk6-73" value="管理弹幕" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="510" y="-200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
