@@ -348,8 +348,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CBZO81hejTbkiIH_VAf7-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="CBZO81hejTbkiIH_VAf7-26" value="钱包" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBZO81hejTbkiIH_VAf7-27" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.911;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="a2CX9kzSwf2xA_T8teZs-2" target="CBZO81hejTbkiIH_VAf7-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
