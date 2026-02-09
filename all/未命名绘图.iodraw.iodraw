@@ -376,31 +376,9 @@
         <mxCell id="fxjrnkAj0hOYZ-mSBcKD-3" value="硬币" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-540" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fxjrnkAj0hOYZ-mSBcKD-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fxjrnkAj0hOYZ-mSBcKD-4" target="fxjrnkAj0hOYZ-mSBcKD-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fxjrnkAj0hOYZ-mSBcKD-8" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="fxjrnkAj0hOYZ-mSBcKD-7">
-          <mxGeometry x="-0.2236" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fxjrnkAj0hOYZ-mSBcKD-9" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="fxjrnkAj0hOYZ-mSBcKD-4" target="fxjrnkAj0hOYZ-mSBcKD-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fxjrnkAj0hOYZ-mSBcKD-10" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="fxjrnkAj0hOYZ-mSBcKD-9">
-          <mxGeometry x="-0.1268" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fxjrnkAj0hOYZ-mSBcKD-4" value="包含" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="430" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fxjrnkAj0hOYZ-mSBcKD-5" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.958;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="CBZO81hejTbkiIH_VAf7-26" target="fxjrnkAj0hOYZ-mSBcKD-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fxjrnkAj0hOYZ-mSBcKD-6" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="fxjrnkAj0hOYZ-mSBcKD-5">
-          <mxGeometry x="-0.1698" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="fxjrnkAj0hOYZ-mSBcKD-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" target="fxjrnkAj0hOYZ-mSBcKD-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-378.28427124746213" y="498.28427124746213" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fxjrnkAj0hOYZ-mSBcKD-11" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
