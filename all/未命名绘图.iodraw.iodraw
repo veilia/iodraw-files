@@ -497,10 +497,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0kh6Af_mV9lWJEhiQZAs-6" value="等级" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="980" y="-300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0kh6Af_mV9lWJEhiQZAs-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-180" width="120" height="60" as="geometry" />
+        <mxCell id="0kh6Af_mV9lWJEhiQZAs-7" value="等级" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0kh6Af_mV9lWJEhiQZAs-8" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
