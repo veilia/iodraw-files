@@ -815,7 +815,7 @@
           <mxGeometry x="1770" y="700" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-82" value="简介" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="820" width="120" height="80" as="geometry" />
+          <mxGeometry x="1880" y="810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-83" value="时长" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="2230" y="990" width="120" height="80" as="geometry" />
