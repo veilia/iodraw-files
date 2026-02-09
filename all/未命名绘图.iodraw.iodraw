@@ -670,8 +670,8 @@
         <mxCell id="UK1EIKddpFV3ZAQFHUpp-33" value="评论时间" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1100" y="-460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UK1EIKddpFV3ZAQFHUpp-35" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="-380" width="120" height="80" as="geometry" />
+        <mxCell id="UK1EIKddpFV3ZAQFHUpp-35" value="点赞数量" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="-450" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
