@@ -241,13 +241,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a2CX9kzSwf2xA_T8teZs-4" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="a2CX9kzSwf2xA_T8teZs-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a2CX9kzSwf2xA_T8teZs-2" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="150" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2CX9kzSwf2xA_T8teZs-3" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="510" y="290" width="120" height="60" as="geometry" />
